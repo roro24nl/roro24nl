@@ -12,7 +12,7 @@
 
 <td width="35%" align="center">
 
-<img src="https://github.com/roro24nl/roro24nl/blob/main/myimage.jpeg" alt="Profile Picture" width="250">
+<!-- <img src="https://github.com/roro24nl/roro24nl/blob/main/myimage.jpeg" alt="Profile Picture" width="250"> -->
 
 </td>
 </tr>
