@@ -12,7 +12,7 @@
 
 <td width="35%" align="center">
 
-<img src="Untitled - 01 June 2026 at 11.27.27 (1).png" alt="Profile Picture" width="250">
+<img src="myimage.png" alt="Profile Picture" width="250">
 
 </td>
 </tr>
